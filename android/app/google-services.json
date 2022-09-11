@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124500881090",
+    "project_id": "bros-for-life",
+    "storage_bucket": "bros-for-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124500881090:android:c61b6d53d55bcbaa4a555b",
+        "android_client_info": {
+          "package_name": "com.example.bros_for_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124500881090-2jrc7c396unita3qiu3vggv2mnnbjr71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTGHxJUSdqesqs3uWQWFZSrD15F0GPR5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124500881090-2jrc7c396unita3qiu3vggv2mnnbjr71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
